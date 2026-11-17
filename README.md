@@ -6,10 +6,10 @@ I've done production monitoring and incident follow-up at a US fintech, and data
 
 ### What I work with
 
-**Ops and monitoring:** Linux (AlmaLinux, Ubuntu), bash, systemd, Docker, Datadog, Sentry, Jenkins, Jira
-**Data:** SQL, Python, PostgreSQL, Google BigQuery, Looker Studio, Power BI
-**Automation:** n8n, Make.com, Google Apps Script, REST APIs, Postman
-**Learning now:** PostgreSQL backup and recovery, Prometheus and Grafana, Terraform, AWS
+- **Ops and monitoring:** Linux (AlmaLinux, Ubuntu), bash, systemd, Docker, Datadog, Sentry, Jenkins, Jira
+- **Data:** SQL, Python, PostgreSQL, Google BigQuery, Looker Studio, Power BI
+- **Automation:** n8n, Make.com, Google Apps Script, REST APIs, Postman
+- **Learning now:** PostgreSQL backup and recovery, Prometheus and Grafana, Terraform, AWS
 
 ### Projects
 
